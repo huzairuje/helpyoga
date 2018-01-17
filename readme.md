@@ -1,10 +1,13 @@
-# Klorofil Free Admin Dashboard in Laravel Template with Front End PAge
+# Klorofil Free Admin Dashboard in Laravel Template with Front End Page
 
 how to install
 1. "git clone https://github.com/huzairuje/klorofil-withfrontend klorofil/"
 2. cd klorofil/
 3. composer install
-4. enjoy...
+4. cp .env.example .env
+5. php artisan key:generate on command line
+6. php artisan serve
+7. happy coding.
 
 
 ## Credit
