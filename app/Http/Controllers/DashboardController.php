@@ -9,6 +9,7 @@ class DashboardController extends Controller
     public function __construct()
     {
         $this->middleware('guest');
+        $this->redirectTo = route('login');
     }
 
     public function index()
