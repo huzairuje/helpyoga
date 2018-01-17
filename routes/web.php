@@ -15,7 +15,8 @@
 Auth::routes();
 
 Route::group(['middleware'=>'guest'],function(){
-	Route::get('/', ['as'=>'dashboard','uses'=>'DashboardController@index']);
+	Route::get('/', ['as'=>'frontend','uses'=>'FrontEndController@index']);
+	Route::get('/dashboard', ['as'=>'dashboard','uses'=>'DashboardController@index']);
 	Route::get('/elements', ['as'=>'elements','uses'=>'ElementController@index']);
 	Route::get('/charts', ['as'=>'charts','uses'=>'ChartsController@index']);
 	Route::get('/panels', ['as'=>'panels','uses'=>'PanelsController@index']);
@@ -25,5 +26,3 @@ Route::group(['middleware'=>'guest'],function(){
 	Route::get('/typography', ['as'=>'typography','uses'=>'TypographyController@index']);
 	Route::get('/icons', ['as'=>'icons','uses'=>'IconsController@index']);
 });
-
-
