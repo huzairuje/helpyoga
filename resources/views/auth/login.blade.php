@@ -8,7 +8,7 @@
 <div class="auth-box ">
     <div class="left">
         <div class="content">
-            <div class="logo text-center"><img src="klorofil/img/logo-dark.png" alt="Klorofil Logo"></div>
+            <!-- <div class="logo text-center"><img src="klorofil/img/logo-dark.png" alt="Klorofil Logo"></div> -->
             <form class="form-auth-small" role="form" method="POST" action="{{ route('login') }}">
                 {{ csrf_field() }}
                 <div class="form-group {{ $errors->has('email') ? ' has-error' : '' }}">
@@ -45,8 +45,8 @@
     <div class="right">
         <div class="overlay"></div>
         <div class="content text">
-            <h1 class="heading">Free Bootstrap dashboard template</h1>
-            <p>by The Develovers</p>
+            <h1 class="heading"></h1>
+            <p>by Sintesa</p>
         </div>
     </div>
     <div class="clearfix"></div>
