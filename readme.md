@@ -1,17 +1,12 @@
-# Klorofil Free Admin Dashboard in Laravel Template
+# Klorofil Free Admin Dashboard in Laravel Template with Front End PAge
 
-![alt tag](https://www.themeineed.com/wp-content/uploads/edd/2016/12/smartmockups-screen_device_20.png)
+how to install
+1. "git clone https://github.com/huzairuje/klorofil-withfrontend klorofil/"
+2. cd klorofil/
+3. composer install
+4. enjoy...
 
-https://klorofilaravel.herokuapp.com
 
-## Installation
-1. Clone git
-2. ``` npm install ```
-3. ``` composer update ```
-3. done!
-
-if you want to deploy to heroku.. enable ```\URL::forceScheme('https');``` in AppServiceProvider
-
-## Credit 
+## Credit
 - Klorofil Free Admin Dashboard - https://www.themeineed.com/downloads/klorofil-free-bootstrap-dashboard-template/
-
+- Klorofil Free Admin Dashboard with laravel - https://github.com/afiqiqmal/free-admin-klorofil-laravel
