@@ -15,14 +15,14 @@
 Auth::routes();
 
 Route::group(['middleware'=>'guest'],function(){
-	// Route::get('/', ['as'=>'frontend','uses'=>'FrontEndController@index']);
+	Route::get('/', ['as'=>'frontend','uses'=>'FrontEndController@index']);
 	// Route::redirect('/', '/login', 301);
 	Route::get('/register', [
 		'as' => 'register',
 		'uses' => 'SentinelAuth\RegisterController@getRegister'
 	]);
 
-	Route::get('/', [
+	Route::get('/login', [
 		'as' => 'login',
 		'uses' => 'SentinelAuth\LoginController@getLogin'
 	]);
