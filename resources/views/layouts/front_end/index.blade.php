@@ -127,7 +127,8 @@
                      </div>
                   </div>
                   <ul id="parallax_move">
-
+                     <li class="layer layer1" data-depth="0.10" style="background-image: url(/images/maxresdefault.jpg);"></li>
+                     <li class="layer layer2" data-depth="0.20" style="background-image: url(/images/maxresdefault.jpg);"></li>
                   </ul>
                   <div class="overlay-layer-wrap">
                      <div class="container overlay-layer" id="parallax_header">
@@ -221,12 +222,8 @@
                               <h2 class="text-left dark-text">Tentang</h2>
                               <div class="colored-line-left"></div>
                               <div class="brief-content-text">
-                                 Use this section to tell a story about your business. Everything you see here is responsive and mobile-friendly - it will look great on smartphones and tablets.<br /> <br />
-                                 <ul>
-                                    <li>Use lists if you want to.</li>
-                                    <li>Use basic HTML.</li>
-                                    <li>Use different <strong>styling</strong> and <em>typography</em>.</li>
-                                 </ul>
+                                 Agrolink bergerak di bidang Peternakan, Perikanan dan Pertanian yang akan sangat membantu market dan kebahagiaan petani kecil. dan mengurangi peran tengkulak dalam chain distribusi.<br /> <br />
+
                               </div>
                            </div>
                         </div>
@@ -303,9 +300,57 @@
                   <div class="section-overlay-layer">
                      <div class="container">
                         <div class="row">
-                           <div class="col-md-8 col-md-offset-2">
-                              <h2 class="white-text strong" >Check out this cool parallax scrolling effect. Use these ribbons to display calls to action mid-page.</h2>
-                              <button onclick="return false;" data-anchor="#" class="btn btn-primary standard-button inpage-scroll inpage_scroll_btn" ><span class="screen-reader-text">Header button label:BUTTON</span>BUTTON</button>
+                           <div class="col-md-12">
+                              <h2 class="white-text strong" >Business SWOT Analysis</h2>
+                              <div id="our_services_wrap" class="services-wrap
+                                 our_services_wrap_piterest">
+                                 <div class="service-box">
+                                    <div class="single-service border-bottom-hover">
+                                       <div class="service-icon colored-text"> <i class="material-icons" style="color:#00B0FF;font-size:100px;">S</i></div>
+                                       <p>
+                                         1. Market kebutuhan yang meningkat</br>
+                                         2. Kurangnya sistem yang mengatur kesejahteraan petani
+                                       </p>
+                                    </div>
+                                 </div>
+                                 <div class="service-box">
+                                    <div class="single-service border-bottom-hover">
+                                       <div class="service-icon colored-text"> <i class="material-icons" style="color:#9CCC65;font-size:100px;">W</i></div>
+                                       <p>
+                                         1. Pola dan Peranan tengkulak yang mendominasi</br>
+                                         2. Kurangnya SDM para petani untuk memahami suatu sistem crowdfunding</br>
+                                         3. Pemasaran hasil resource para peternak yang belom terarah</br>
+                                       </p>
+                                    </div>
+                                 </div>
+                                 <div class="service-box">
+                                    <div class="single-service border-bottom-hover">
+                                       <div class="service-icon colored-text"> <i class="material-icons" style="color:#9E9E9E;font-size:100px;">O</i></div>
+                                       <p>
+                                         1. Belum adanya sistem yang mengaabungkan antara crowdfunding dan B2B sistem</br>
+                                         2. Banyaknya demand di market digital dengan alasan efisiensi waktu dan biaya</br>
+                                         3. Demand di setiap daerah tidak merata</br>
+                                       </p>
+                                    </div>
+                                 </div>
+                                 <div class="service-box" style="opacity: 0;">
+                                    <div class="single-service">
+                                       <div class="service-icon "> </div>
+                                    </div>
+                                 </div>
+                                 <div class="service-box">
+                                    <div class="single-service border-bottom-hover">
+                                       <div class="service-icon colored-text"> <i class="material-icons" style="color:#FFEB3B;font-size:100px;">T</i></div>
+                                       <p>
+                                         1. Tengkulak masih berpengaruh di pasar international / modern dan pasar traditional</br>
+                                         2. Banyaknya pedagang traditional yang tidak menginginkan sistem market digital</br>
+                                       </p>
+                                    </div>
+                                 </div>
+
+
+                              </div>
+                              </div>
                            </div>
                         </div>
                      </div>
@@ -329,7 +374,7 @@
                            <div class="col-sm-4 contact-link-box col-xs-12"
                               >
                               <div class="icon-container"><span class="fa icon-basic-tablet colored-text"></span></div>
-                              <a href="#" class="strong">+44-12-3456-7890</a>
+                              <a href="#" class="strong">02220525095</a>
                            </div>
                         </div>
                      </div>
@@ -341,7 +386,7 @@
                      <div id="intergeo_mapwMxMjM" class="intergeo_map_canvas" style="width:100%;height:300px;width:100%;height:300px;"></div>
                      <script type="text/javascript">/*  */
                         if (!window.intergeo_maps) window.intergeo_maps = [];
-                        window.intergeo_maps.push( { container: 'intergeo_mapwMxMjM', options: {"lat":46.9800890092,"lng":2.8319679125} } );
+                        window.intergeo_maps.push( { container: 'intergeo_mapwMxMjM', options: {"lat":-6.290666,"lng":106.809573} } );
                         if (!window.intergeo_maps_current) window.intergeo_maps_current = null;
                         /*  */
                      </script>
