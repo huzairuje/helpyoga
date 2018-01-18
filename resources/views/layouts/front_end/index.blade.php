@@ -30,6 +30,7 @@
          .07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
          !important}
       </style>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link rel='stylesheet' id='obfx-module-pub-css-menu-icons-0-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=2.3.1' type='text/css' media='all' />
       <link rel='stylesheet' id='contact-form-7-css'  href='https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1' type='text/css' media='all' />
       <link rel='stylesheet' id='edd-styles-css'  href='https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/plugins/easy-digital-downloads/templates/edd.min.css?ver=2.8.13' type='text/css' media='all' />
@@ -89,11 +90,11 @@
                            <button title='Toggle Menu' aria-controls='menu-main-menu' aria-expanded='false' type="button" class="navbar-toggle menu-toggle" id="menu-toggle" data-toggle="collapse" data-target="#menu-primary"> <span class="screen-reader-text">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                            <a href="#" class="navbar-brand" title="Agrolink"><img src="{{url('/images/agrolink.png')}}" alt="Image"/></a>
                            <div class="header-logo-wrap text-header paralax_one_only_customizer">
-                              <h1 itemprop="headline" id="site-title" class="site-title"><a href="https://demo.themeisle.com/parallax-one/" title="Parallax One" rel="home">Parallax One</a></h1>
+                              <h1 itemprop="headline" id="site-title" class="site-title"><a href="#" title="Parallax One" rel="home">Agrolink</a></h1>
                               <p itemprop="description" id="site-description" class="site-description">Agrolink</p>
                            </div>
                         </div>
-                        <div itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Primary Menu" id="menu-primary" class="navbar-collapse collapse">
+                        <div itemscope itemtype="#" aria-label="Primary Menu" id="menu-primary" class="navbar-collapse collapse">
                            <div id="site-header-menu" class="site-header-menu">
                               <nav id="site-navigation" class="main-navigation" role="navigation">
                                  <div id="mega-menu-wrap-primary" class="mega-menu-wrap">
@@ -102,36 +103,14 @@
                                     </div>
                                     <ul id="mega-menu-primary" class="mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="disabled" data-effect-speed="200" data-second-click="close" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="600" data-unbind="true">
                                        <li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-current_page_item mega-menu-item-home mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-6145' id='mega-menu-item-6145'>
-                                          <a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/#services" aria-haspopup="true" tabindex="0">Features</a>
-                                          <ul class="mega-sub-menu">
-                                             <li class='mega-menu-item mega-menu-item-type-widget widget_text mega-menu-columns-1-of-2 mega-menu-item-text-11' id='mega-menu-item-text-11'>
-                                                <div class="textwidget"><em>SETUP</em></div>
-                                             </li>
-                                             <li class='mega-menu-item mega-menu-item-type-widget widget_text mega-menu-columns-1-of-2 mega-menu-item-text-12' id='mega-menu-item-text-12'>
-                                                <div class="textwidget"><em>CONTENT</em></div>
-                                             </li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-6146' id='mega-menu-item-6146'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/1-click-updates-and-fast-support/">1-Click Updates and Fast Support</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-item-6151' id='mega-menu-item-6151'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/custom-backgrounds/">Custom Backgrounds</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-6147' id='mega-menu-item-6147'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/1-minute-setup-sample-content-available/">1-Minute Setup & Sample Content Available</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-item-6154' id='mega-menu-item-6154'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/responsive-design/">Responsive Design</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-6148' id='mega-menu-item-6148'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/optimized-for-speed/">Optimized for Speed</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-item-6152' id='mega-menu-item-6152'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/live-customizer/">Live Customizer</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-6149' id='mega-menu-item-6149'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/video-tutorials/">Video Tutorials</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-item-6153' id='mega-menu-item-6153'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/mega-menus/">Mega Menus (With Icons)</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-widget widget_text mega-menu-columns-2-of-2 mega-menu-clear mega-menu-item-text-13' id='mega-menu-item-text-13'>
-                                                <div class="textwidget"><em>DESIGN</em></div>
-                                             </li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-6156' id='mega-menu-item-6156'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/translation-rtl-ready/">Translation & RTL Ready</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-item-6150' id='mega-menu-item-6150'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/drag-and-drop-builder-compatible/">Drag-and-Drop Content Builder</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-6155' id='mega-menu-item-6155'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/seo-optimized/">SEO Optimized</a></li>
-                                             <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-columns-1-of-2 mega-menu-item-6157' id='mega-menu-item-6157'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/woocommerce-ready/">WooCommerce Ready</a></li>
-                                          </ul>
+                                          <a class="mega-menu-link" href="#" aria-haspopup="true" tabindex="0">Features</a>
+
                                        </li>
                                        <li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-current_page_item mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-6158' id='mega-menu-item-6158'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/#story" tabindex="0">About</a></li>
                                        <li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-current_page_item mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-6159' id='mega-menu-item-6159'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/#team" tabindex="0">Team</a></li>
                                        <li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-current_page_item mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-6160' id='mega-menu-item-6160'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/#customers" tabindex="0">Testimonials</a></li>
                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-6161' id='mega-menu-item-6161'>
-                                          <a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/shop/" aria-haspopup="true" tabindex="0">Shop</a>
+                                          <a class="mega-menu-link" href="#" aria-haspopup="true" tabindex="0">Shop</a>
                                           <ul class="mega-sub-menu">
                                              <li class='mega-menu-item mega-menu-item-type-post_type_archive mega-menu-item-object-product mega-menu-item-6162' id='mega-menu-item-6162'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/shop/">All Products</a></li>
                                              <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6166' id='mega-menu-item-6166'><a class="mega-menu-link" href="https://demo.themeisle.com/parallax-one/cart/">Cart</a></li>
@@ -167,11 +146,9 @@
                   <div class="container">
                      <ul class="client-logos"
                         >
-                        <li> <a href="#" title=""> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/themes/Parallax-One/images/companies/1.png" alt="Logo"> </a></li>
-                        <li> <a href="#" title=""> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/themes/Parallax-One/images/companies/2.png" alt="Logo"> </a></li>
-                        <li> <a href="#" title=""> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2016/01/clients.png" alt="Logo"> </a></li>
-                        <li> <a href="#" title=""> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/themes/Parallax-One/images/companies/4.png" alt="Logo"> </a></li>
-                        <li> <a href="#" title=""> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/themes/Parallax-One/images/companies/5.png" alt="Logo"> </a></li>
+                        <li> <a href="#" title=""><img src="{{url('/images/agrolink.png')}}" alt="Logo"> </a></li>
+                        <li> <a href="#" title=""><img src="{{url('/images/sintesalogo.png')}}" alt="Logo"> </a></li>
+
                      </ul>
                   </div>
                </div>
@@ -179,36 +156,55 @@
                   <div class="section-overlay-layer">
                      <div class="container">
                         <div class="section-header">
-                           <h2 class="dark-text">Flagship Features</h2>
+                           <h2 class="dark-text">Agrolink Mobile Application Features</h2>
                            <div class="colored-line"></div>
-                           <div class="sub-heading">What makes this parallax WordPress theme unique.</div>
+                           <div class="sub-heading">Beberapa Feature di mobile Application Agrolink</div>
                         </div>
                         <div id="our_services_wrap" class="services-wrap
                            our_services_wrap_piterest">
-                           <div class="service-box"
-                              >
+                           <div class="service-box">
                               <div class="single-service border-bottom-hover">
-                                 <div class="service-icon colored-text"> <span class="fa icon-arrows-expand"></span></div>
-                                 <h3 class="colored-text">Parallax Effects</h3>
-                                 <p>Create memorable and unique pages with smooth parallax scrolling effects that everyone loves.</p>
+                                 <div class="service-icon colored-text"> <i class="material-icons" style="color:#00B0FF;font-size:100px;">speaker_notes</i></div>
+                                 <h3 class="colored-text">Comodities Stock Info</h3>
+                                 <p>Berisi berita tentang seputar bisnis didunia investasi perikanan & peternakan.</p>
                               </div>
                            </div>
-                           <div class="service-box"
-                              >
+                           <div class="service-box">
                               <div class="single-service border-bottom-hover">
-                                 <div class="service-icon colored-text"> <span class="fa icon-basic-webpage-img-txt"></span></div>
-                                 <h3 class="colored-text">Single-Page Design</h3>
-                                 <p>Tell a story with your website, take your visitors by the hand and guide them from section to section.</p>
+                                 <div class="service-icon colored-text"> <i class="material-icons" style="color:#9CCC65;font-size:100px;">flip_to_front</i></div>
+                                 <h3 class="colored-text">Utility Market Information</h3>
+                                 <p>Membantu para Petani memberikan solusi investasi pada utility (pemilihan pupuk, pengeluaran, dll)</p>
                               </div>
                            </div>
-                           <div class="service-box"
-                              >
+                           <div class="service-box">
                               <div class="single-service border-bottom-hover">
-                                 <div class="service-icon colored-text"> <span class="fa icon-basic-elaboration-document-graph"></span></div>
-                                 <h3 class="colored-text">Custom Content Blocks</h3>
-                                 <p>Showcase your team, products, client testimonials, about info, and more. Everything translation ready.</p>
+                                 <div class="service-icon colored-text"> <i class="material-icons" style="color:#9E9E9E;font-size:100px;">content_paste</i></div>
+                                 <h3 class="colored-text">Clear and Simply Proposal</h3>
+                                 <p>Informasi biodata peternak dan project plan dari para peternak</p>
                               </div>
                            </div>
+                           <div class="service-box">
+                              <div class="single-service border-bottom-hover">
+                                 <div class="service-icon colored-text"> <i class="material-icons" style="color:#FFEB3B;font-size:100px;">settings_system_daydream</i></div>
+                                 <h3 class="colored-text">Marketing Ranchbox</h3>
+                                 <p>Berisikan saleskit dan tools presentase market sehingga  investor dapat langsung menjual secara global menggunakan sistem agrolink API</p>
+                              </div>
+                           </div>
+                           <div class="service-box">
+                              <div class="single-service border-bottom-hover">
+                                 <div class="service-icon colored-text"> <i class="material-icons" style="color:#A7FFEB;font-size:100px;">book</i></div>
+                                 <h3 class="colored-text">Investment Report</h3>
+                                 <p>Berisi tentang informasi dan perhitungan investasi dari ranch yang sudah di invest</p>
+                              </div>
+                           </div>
+                           <div class="service-box">
+                              <div class="single-service border-bottom-hover">
+                                 <div class="service-icon colored-text"> <i class="material-icons" style="color:#FF7043;font-size:100px;">assignment_late</i></div>
+                                 <h3 class="colored-text">Notification & Realtime Report</h3>
+                                 <p>Instant notification sebagai alert untuk memantau perkembangan investasi setiap harinya.</p>
+                              </div>
+                           </div>
+
                         </div>
                      </div>
                   </div>
@@ -218,14 +214,13 @@
                      <div class="container">
                         <div class="row">
                            <div class="col-md-6 brief-content-two">
-                              <div class="brief-image-right"
-                                 > <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2016/01/skate.jpg " alt=" About"></div>
+                              <div class="brief-image-right">
+                                <img src="{{url('/images/agrolink.png')}}" alt=" About"></div>
                            </div>
                            <div class="col-md-6 content-section brief-content-one">
-                              <h2 class="text-left dark-text">About</h2>
+                              <h2 class="text-left dark-text">Tentang</h2>
                               <div class="colored-line-left"></div>
-                              <div class="brief-content-text"
-                                 >
+                              <div class="brief-content-text">
                                  Use this section to tell a story about your business. Everything you see here is responsive and mobile-friendly - it will look great on smartphones and tablets.<br /> <br />
                                  <ul>
                                     <li>Use lists if you want to.</li>
@@ -238,113 +233,65 @@
                      </div>
                   </div>
                </section>
-               <section class="team" id="team" role="region" aria-label="Team">
-                  <div class="section-overlay-layer">
-                     <div class="container">
-                        <div class="section-header">
-                           <h2 class="dark-text">Your Team</h2>
-                           <div class="colored-line"></div>
-                           <div class="sub-heading">Don&#039;t be shy about your team. Prove that you have real people working for you.</div>
-                        </div>
-                        <div class="row team-member-wrap">
-                           <div class="col-md-3 team-member-box">
-                              <div class="team-member border-bottom-hover"
-                                 >
-                                 <div class="member-pic"> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/12/1.jpg" alt="Albert Jacobs"></div>
-                                 <div class="member-details">
-                                    <div class="member-details-inner">
-                                       <h5 class="colored-text"> Albert Jacobs</h5>
-                                       <div class="small-text">Founder &amp; CEO</div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-md-3 team-member-box">
-                              <div class="team-member border-bottom-hover"
-                                 >
-                                 <div class="member-pic"> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/12/2.jpg" alt="George Walker"></div>
-                                 <div class="member-details">
-                                    <div class="member-details-inner">
-                                       <h5 class="colored-text"> George Walker</h5>
-                                       <div class="small-text">Account Manager</div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-md-3 team-member-box">
-                              <div class="team-member border-bottom-hover"
-                                 >
-                                 <div class="member-pic"> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/12/3.jpg" alt="Frank Hanson"></div>
-                                 <div class="member-details">
-                                    <div class="member-details-inner">
-                                       <h5 class="colored-text"> Frank Hanson</h5>
-                                       <div class="small-text">Business Development</div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-md-3 team-member-box">
-                              <div class="team-member border-bottom-hover"
-                                 >
-                                 <div class="member-pic"> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/12/4.jpg" alt="Emily Smith"></div>
-                                 <div class="member-details">
-                                    <div class="member-details-inner">
-                                       <h5 class="colored-text"> Emily Smith</h5>
-                                       <div class="small-text">App Developer</div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </section>
+
                <section class="testimonials" id="customers" role="region" aria-label="Testimonials">
                   <div class="section-overlay-layer">
                      <div class="container">
                         <div class="section-header">
-                           <h2 class="dark-text">Client Testimonials</h2>
+                           <h2 class="dark-text">Why We Exist</h2>
                            <div class="colored-line"></div>
-                           <div class="sub-heading">Get testimonials from your clients and display them here. Prove that you&#039;re for real.</div>
+                           <div class="sub-heading">Kenapa kita hadir dan ada karena mengangkat beberapa permasalahan yang dibawah ini.</div>
                         </div>
                         <div id="happy_customers_wrap" class="testimonials-wrap
                            happy_customers_wrap_piterest">
                            <div class="testimonials-box"
                               >
                               <div class="feedback border-bottom-hover">
-                                 <div class="pic-container">
-                                    <div class="pic-container-inner"> <img src="//res.cloudinary.com/vertigo-studio-srl/image/upload/v1451482222/2_ahgvcd.jpg" alt="Eusebia Bărlâdeanu"></div>
-                                 </div>
+
                                  <div class="feedback-text-wrap">
-                                    <h5 class="colored-text"> Eusebia Bărlâdeanu</h5>
-                                    <div class="small-text"> XYZ Interactive</div>
-                                    <p> "They helped me become a devoted coffee evangelist, a wannabe web practitioner, a troublemaker, a general TV trailblazer, a problem solver."</p>
+                                    <h5 class="colored-text">PERTAMA</h5>
+                                    <p> "Kurangnya pengetahuan terutama peranan teknologi untuk meningkatkan produktifitas & pemasaran."</p>
                                  </div>
                               </div>
                            </div>
                            <div class="testimonials-box"
                               >
                               <div class="feedback border-bottom-hover">
-                                 <div class="pic-container">
-                                    <div class="pic-container-inner"> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/12/2-1.jpg" alt="Eusebia Bărlâdeanu"></div>
-                                 </div>
+
                                  <div class="feedback-text-wrap">
-                                    <h5 class="colored-text"> Eusebia Bărlâdeanu</h5>
-                                    <div class="small-text"> AbZ Network</div>
-                                    <p> "They taught me how to be a certified bacon specialist / web guru / writer / professional internet expert. And a passionate zombie enthusiast."</p>
+                                    <h5 class="colored-text">KEDUA</h5>
+                                    <p> "Masih anyaknya tengkulak di tengah masyarakat yang dapat memonopoli harga pasar."</p>
                                  </div>
                               </div>
                            </div>
                            <div class="testimonials-box"
                               >
                               <div class="feedback border-bottom-hover">
-                                 <div class="pic-container">
-                                    <div class="pic-container-inner"> <img src="//demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/12/3-1.jpg" alt="Georgian Hrușcă"></div>
-                                 </div>
+
                                  <div class="feedback-text-wrap">
-                                    <h5 class="colored-text"> Georgian Hrușcă</h5>
-                                    <div class="small-text"> ZyX LLC</div>
-                                    <p> "I was supposed to send this testimonial but I forgot! I&#039;m sure they will figure something out. A great company nonetheless."</p>
+                                    <h5 class="colored-text">KETIGA</h5>
+                                    <p> "Tidak Adanya Sistem Administrasi dan Manajemen yang transparan sehingga memungkinkan adanya investor pada pola bisnis"</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="testimonials-box"
+                              >
+                              <div class="feedback border-bottom-hover">
+
+                                 <div class="feedback-text-wrap">
+                                    <h5 class="colored-text"> KEEMPAT</h5>
+                                    <p> "Terbatasnya market  bagi para petani dan peternak untuk memasarkan produknya secara luas"</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="testimonials-box"
+                              >
+                              <div class="feedback border-bottom-hover">
+
+                                 <div class="feedback-text-wrap">
+                                    <h5 class="colored-text"> KELIMA</h5>
+
+                                    <p> "Kurang diperhatikannya jaminan kesehatan dan ketenagakerjaan bagi petani dan peternak"</p>
                                  </div>
                               </div>
                            </div>
@@ -364,88 +311,7 @@
                      </div>
                   </div>
                </section>
-               <section class="brief timeline" id="latestnews" role="region" aria-label="Latest blog posts">
-                  <div class="section-overlay-layer">
-                     <div class="container">
-                        <div class="row">
-                           <div class="col-md-12 timeline-text text-left">
-                              <h2 class="text-left dark-text">Your Latest Blog Posts</h2>
-                              <div class="colored-line-left"></div>
-                           </div>
-                           <div class="parallax-slider-whole-wrap">
-                              <div class="controls-wrap"> <button class="control_next icon icon-arrow-carrot-down"><span class="screen-reader-text">Post slider navigation: Down</span></button> <button class="control_prev fade-btn icon icon-arrow-carrot-up"><span class="screen-reader-text">Post slider navigation: Up</span></button></div>
-                              <div itemscope itemtype="http://schema.org/Blog" id="parallax_slider" class="col-md-12 timeline-section">
-                                 <ul class="vertical-timeline" id="timeline-scroll">
-                                    <li>
-                                       <div itemscope itemprop="blogPosts" itemtype="http://schema.org/BlogPosting" id="post-4902" class="timeline-box-wrap" title="Latest News: Everything Mobile-Friendly and Responsive"
-                                          >
-                                          <div datetime="2015-08-03T14:42:18+00:00" title="Monday, August 3, 2015, 2:42 pm" class="entry-published date small-text strong"> Aug, 3</div>
-                                          <div itemscope itemprop="image" class="icon-container white-text"> <a href="https://demo.themeisle.com/parallax-one/hello-world-2-2/" title="Everything Mobile-Friendly and Responsive"> <img width="150" height="150" src="https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2016/01/beach-150x150.jpg" class="attachment-parallax-one-post-thumbnail-latest-news size-parallax-one-post-thumbnail-latest-news wp-post-image" alt="" srcset="https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2016/01/beach-150x150.jpg 150w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2016/01/beach-180x180.jpg 180w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2016/01/beach-300x300.jpg 300w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2016/01/beach-600x600.jpg 600w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2016/01/beach-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /> </a></div>
-                                          <div class="info">
-                                             <header class="entry-header">
-                                                <h3 itemprop="headline" class="entry-title"> <a href="https://demo.themeisle.com/parallax-one/hello-world-2-2/" rel="bookmark">Everything Mobile-Friendly and Responsive</a></h3>
-                                                <div class="entry-meta"> <span class="entry-date"> <a href="https://demo.themeisle.com/parallax-one/2015/08/03/" rel="bookmark"> <time itemprop="datePublished" datetime="2015-08-03T14:42:18+00:00" title="Monday, August 3, 2015, 2:42 pm" class="entry-date entry-published updated">August 3, 2015</time> </a> </span> <span> by </span> <span itemscope itemprop="author" itemtype="http://schema.org/Person" class="author-link"> <span  itemprop="name" class="entry-author author vcard"> <a itemprop="url" class="url fn n" href="https://demo.themeisle.com/parallax-one/author/codeinwp/" rel="author">themeisle </a> </span> </span></div>
-                                             </header>
-                                             <div itemprop="description" class="entry-content entry-summary">
-                                                <p>Free and Priceless at the Same Time WordPress is web software you can use to create a beautiful website or blog. We like to say that WordPress is both free and priceless at the same time. — WordPress Lorem Ut in lorem at nisi ultricies semper? Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed [&hellip;]</p>
-                                                <a href="https://demo.themeisle.com/parallax-one/hello-world-2-2/" title="Everything Mobile-Friendly and Responsive" class="read-more">Read more <span class="screen-reader-text"> Everything Mobile-Friendly and Responsive</span></a>
-                                             </div>
-                                          </div>
-                                       </div>
-                                       <div itemscope itemprop="blogPosts" itemtype="http://schema.org/BlogPosting" id="post-4900" class="timeline-box-wrap" title="Latest News: Excellent Support and Timely Updates"
-                                          >
-                                          <div datetime="2015-07-02T20:19:20+00:00" title="Thursday, July 2, 2015, 8:19 pm" class="entry-published date small-text strong"> Jul, 2</div>
-                                          <div itemscope itemprop="image" class="icon-container white-text"> <a href="https://demo.themeisle.com/parallax-one/latest-technologies-2/" title="Excellent Support and Timely Updates"> <img width="150" height="150" src="https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog4-1-150x150.jpg" class="attachment-parallax-one-post-thumbnail-latest-news size-parallax-one-post-thumbnail-latest-news wp-post-image" alt="" srcset="https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog4-1-150x150.jpg 150w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog4-1-180x180.jpg 180w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog4-1-300x300.jpg 300w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog4-1-600x600.jpg 600w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog4-1-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /> </a></div>
-                                          <div class="info">
-                                             <header class="entry-header">
-                                                <h3 itemprop="headline" class="entry-title"> <a href="https://demo.themeisle.com/parallax-one/latest-technologies-2/" rel="bookmark">Excellent Support and Timely Updates</a></h3>
-                                                <div class="entry-meta"> <span class="entry-date"> <a href="https://demo.themeisle.com/parallax-one/2015/07/02/" rel="bookmark"> <time itemprop="datePublished" datetime="2015-07-02T20:19:20+00:00" title="Thursday, July 2, 2015, 8:19 pm" class="entry-date entry-published updated">July 2, 2015</time> </a> </span> <span> by </span> <span itemscope itemprop="author" itemtype="http://schema.org/Person" class="author-link"> <span  itemprop="name" class="entry-author author vcard"> <a itemprop="url" class="url fn n" href="https://demo.themeisle.com/parallax-one/author/codeinwp/" rel="author">themeisle </a> </span> </span></div>
-                                             </header>
-                                             <div itemprop="description" class="entry-content entry-summary">
-                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti. Sed egestas, ante et vulputate volutpat, eros pede [&hellip;]</p>
-                                                <a href="https://demo.themeisle.com/parallax-one/latest-technologies-2/" title="Excellent Support and Timely Updates" class="read-more">Read more <span class="screen-reader-text"> Excellent Support and Timely Updates</span></a>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    <li>
-                                       <div itemscope itemprop="blogPosts" itemtype="http://schema.org/BlogPosting" id="post-4899" class="timeline-box-wrap" title="Latest News: Custom Content Blocks"
-                                          >
-                                          <div datetime="2015-07-02T20:17:22+00:00" title="Thursday, July 2, 2015, 8:17 pm" class="entry-published date small-text strong"> Jul, 2</div>
-                                          <div itemscope itemprop="image" class="icon-container white-text"> <a href="https://demo.themeisle.com/parallax-one/beautiful-accordion-2/" title="Custom Content Blocks"> <img width="150" height="150" src="https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog7-1-150x150.jpg" class="attachment-parallax-one-post-thumbnail-latest-news size-parallax-one-post-thumbnail-latest-news wp-post-image" alt="" srcset="https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog7-1-150x150.jpg 150w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog7-1-180x180.jpg 180w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog7-1-300x300.jpg 300w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog7-1-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /> </a></div>
-                                          <div class="info">
-                                             <header class="entry-header">
-                                                <h3 itemprop="headline" class="entry-title"> <a href="https://demo.themeisle.com/parallax-one/beautiful-accordion-2/" rel="bookmark">Custom Content Blocks</a></h3>
-                                                <div class="entry-meta"> <span class="entry-date"> <a href="https://demo.themeisle.com/parallax-one/2015/07/02/" rel="bookmark"> <time itemprop="datePublished" datetime="2015-07-02T20:17:22+00:00" title="Thursday, July 2, 2015, 8:17 pm" class="entry-date entry-published updated">July 2, 2015</time> </a> </span> <span> by </span> <span itemscope itemprop="author" itemtype="http://schema.org/Person" class="author-link"> <span  itemprop="name" class="entry-author author vcard"> <a itemprop="url" class="url fn n" href="https://demo.themeisle.com/parallax-one/author/codeinwp/" rel="author">themeisle </a> </span> </span></div>
-                                             </header>
-                                             <div itemprop="description" class="entry-content entry-summary">
-                                                <p>Pellentesque Habitant Posuere Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti. Sed egestas, ante et vulputate [&hellip;]</p>
-                                                <a href="https://demo.themeisle.com/parallax-one/beautiful-accordion-2/" title="Custom Content Blocks" class="read-more">Read more <span class="screen-reader-text"> Custom Content Blocks</span></a>
-                                             </div>
-                                          </div>
-                                       </div>
-                                       <div itemscope itemprop="blogPosts" itemtype="http://schema.org/BlogPosting" id="post-4901" class="timeline-box-wrap" title="Latest News: How About a Video Post?"
-                                          >
-                                          <div datetime="2015-07-01T09:38:35+00:00" title="Wednesday, July 1, 2015, 9:38 am" class="entry-published date small-text strong"> Jul, 1</div>
-                                          <div itemscope itemprop="image" class="icon-container white-text"> <a href="https://demo.themeisle.com/parallax-one/video-post-2/" title="How About a Video Post?"> <img width="150" height="150" src="https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog2-1-150x150.jpg" class="attachment-parallax-one-post-thumbnail-latest-news size-parallax-one-post-thumbnail-latest-news wp-post-image" alt="" srcset="https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog2-1-150x150.jpg 150w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog2-1-180x180.jpg 180w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog2-1-300x300.jpg 300w, https://demot-vertigostudio.netdna-ssl.com/parallax-one/wp-content/uploads/sites/38/2015/07/blog2-1-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /> </a></div>
-                                          <div class="info">
-                                             <header class="entry-header">
-                                                <h3 itemprop="headline" class="entry-title"> <a href="https://demo.themeisle.com/parallax-one/video-post-2/" rel="bookmark">How About a Video Post?</a></h3>
-                                                <div class="entry-meta"> <span class="entry-date"> <a href="https://demo.themeisle.com/parallax-one/2015/07/01/" rel="bookmark"> <time itemprop="datePublished" datetime="2015-07-01T09:38:35+00:00" title="Wednesday, July 1, 2015, 9:38 am" class="entry-date entry-published updated">July 1, 2015</time> </a> </span> <span> by </span> <span itemscope itemprop="author" itemtype="http://schema.org/Person" class="author-link"> <span  itemprop="name" class="entry-author author vcard"> <a itemprop="url" class="url fn n" href="https://demo.themeisle.com/parallax-one/author/codeinwp/" rel="author">themeisle </a> </span> </span></div>
-                                             </header>
-                                             <div itemprop="description" class="entry-content entry-summary">
-                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti. Sed egestas, ante et vulputate volutpat, eros pede [&hellip;]</p>
-                                                <a href="https://demo.themeisle.com/parallax-one/video-post-2/" title="How About a Video Post?" class="read-more">Read more <span class="screen-reader-text"> How About a Video Post?</span></a>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </section>
+
                <div class="contact-info" id="contactinfo" role="region" aria-label="Contact Info">
                   <div class="section-overlay-layer">
                      <div class="container">
@@ -453,12 +319,12 @@
                            <div class="col-sm-4 contact-link-box col-xs-12"
                               >
                               <div class="icon-container"><span class="fa icon-basic-mail colored-text"></span></div>
-                              <a href="#" class="strong">your@mail.com</a>
+                              <a href="#" class="strong">sintesa@mail.com</a>
                            </div>
                            <div class="col-sm-4 contact-link-box col-xs-12"
                               >
                               <div class="icon-container"><span class="fa icon-basic-geolocalize-01 colored-text"></span></div>
-                              <a href="#" class="strong">Glen Road, E13 8 London, UK</a>
+                              <a href="#" class="strong">Menara 165, Lantai 21, Jl Raya TB Simatupang, Jakarta Selatan</a>
                            </div>
                            <div class="col-sm-4 contact-link-box col-xs-12"
                               >
@@ -486,7 +352,7 @@
                <div class="container">
                   <div class="footer-widget-wrap"></div>
                   <div class="footer-bottom-wrap">
-                     <span class="parallax_one_copyright_content">Your Company Name and Social Links</span>
+                     <span class="parallax_one_copyright_content">Copyright <a href="http://www.sintesa.co.id/">PT. Sinergi Teknologi Nusantara</a>. All Rights Reserved</span>
                      <div itemscope role="navigation" itemtype="http://schema.org/SiteNavigationElement" id="menu-secondary" aria-label="Secondary Menu">
                         <h2 class="screen-reader-text">Secondary Menu</h2>
                      </div>
@@ -497,8 +363,7 @@
                         <li> <a target="_blank" href="#"> <span class="fa parallax-one-footer-icons icon-social-pinterest transparent-text-dark"></span> </a></li>
                      </ul>
                   </div>
-                  <div class="powered-by"><a href="https://themeisle.com/themes/parallax-one/" target="_blank" rel="nofollow">Parallax One </a>powered by <a class="" href="http://wordpress.org/" target="_blank" rel="nofollow">WordPress</a></div>
-               </div>
+
             </footer>
          </div>
       </div>
